@@ -1,6 +1,9 @@
-# Bootstrap 4 Starter Pack (BETA 4.0.0)
+# Bootstrap Project - BootAlpha (Webdesign for a Coding Company)
 
-Latest version of Bootstrap 4! Automation with Gulp and support for sass!
+Made with Bootstrap 4! Automation with Gulp and support for sass!
+
+Deployed 
+[here](https://bootalpha.herokuapp.com/)
 
 ### Version
 
