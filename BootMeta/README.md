@@ -2,6 +2,10 @@
 
 Latest version of Bootstrap 4! Automation with Gulp and support for sass!
 
+Deployed
+[here](https://bootmetaa.herokuapp.com/)
+
+
 ### Version
 
 2.0.0
@@ -21,7 +25,4 @@ npm start
 Files are compiled into /src
 
 
-##Deployed on
-```link
-https://bootmetaa.herokuapp.com/
-```
+
